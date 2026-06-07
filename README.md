@@ -98,14 +98,14 @@ I specialize in building **scalable, clean-architecture mobile apps** for Androi
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bavlymo1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bavlymo1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bavlymo1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bavlymo1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=bavlymo1&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560" />
+<img width="60%" src="https://streak-stats.demolab.com?user=bavlymo1&theme=tokyonight&hide_border=true" />
 
 </div>
 
