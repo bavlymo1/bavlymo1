@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineering student at Helwan University** (GPA 3.5/4.0) with hands-on production experience across **3 internships** in Android, Flutter, and Java development.
+I'm a **Software Engineering student at Helwan University** (GPA 3.5/4.0) with hands-on production experience across **4 internships** in Android, Flutter, and Java development.
 
 I specialize in building **scalable, clean-architecture mobile apps** for Android (Kotlin/Jetpack Compose) and Flutter (Dart/BLoC), with growing backend depth in Spring Boot. My approach: think in systems, write maintainable code, and ship things that actually work.
 
@@ -77,7 +77,7 @@ I specialize in building **scalable, clean-architecture mobile apps** for Androi
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [**Crypto Tracker**](https://github.com/bavlymo1) | Kotlin · Ktor · MVI · Compose | Real-time crypto data · Clean Arch · Feature-based modularization |
+| [**Crypto Tracker**](https://github.com/bavlymo1/Crypto-Tracker) | Kotlin · Ktor · MVI · Compose | Real-time crypto data · Clean Arch · Feature-based modularization |
 | [**YarnCraft Marketplace**](https://github.com/bavlymo1/yarncraft) | Spring Boot · React · Docker · MySQL | Full-stack · JWT Security · AOP logging · Dockerized deployment |
 | [**Swap App Zone**](https://github.com/bavlymo1/Swap-App-Zone-) | Flutter · Firebase · Clean Arch | Auth · Real-time Firestore sync · Geo-location feed |
 | [**Shopping App**](https://github.com/bavlymo1/Shopping) | Kotlin · MVVM · Retrofit · Compose | Live API · Material Design 3 · DiffUtil optimization |
@@ -90,7 +90,7 @@ I specialize in building **scalable, clean-architecture mobile apps** for Androi
 🏢 **Clutch Tech** — Android Developer Intern  
 🏦 **Banque Misr** — Android Developer Intern  
 🎓 **DEPI (Digital Egypt Pioneers Initiative)** — Flutter / Mobile Developer  
-🏫 **ITI Ismailia** — Java Development Track  
+��� **ITI Ismailia** — Java Development Track  
 
 ---
 
