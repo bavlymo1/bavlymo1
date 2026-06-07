@@ -1,72 +1,130 @@
-<h2 align="center">Hi 👋! I'm Bahy and I'm a Software Engineer, from Egypt</h2>
-
-###
-
-<br clear="both">
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="39" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="39" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="39" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="39" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="39" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="39" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="39" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="39" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="39" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="39" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="39" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="39" alt="jetpackcompose logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="39" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="39" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="39" alt="sqlite logo"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header&text=Bahy%20Mohy&fontSize=42&fontColor=e94560&fontAlignY=65&animation=fadeIn" width="100%" />
+
 </div>
 
-###
+<h3 align="center">📱 Android & Flutter Developer · Spring Boot Backend · Egypt 🇪🇬</h3>
 
-<br clear="both">
+<p align="center">
+  <a href="https://www.linkedin.com/in/bahy-mohy-0b5ab6407/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bahy.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/bavlymo1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Software Engineering student at Helwan University** (GPA 3.5/4.0) with hands-on production experience across **3 internships** in Android, Flutter, and Java development.
+
+I specialize in building **scalable, clean-architecture mobile apps** for Android (Kotlin/Jetpack Compose) and Flutter (Dart/BLoC), with growing backend depth in Spring Boot. My approach: think in systems, write maintainable code, and ship things that actually work.
+
+🎯 **Currently:** Actively seeking Android / Flutter internship or junior role  
+🔨 **Building:** Expanding Kotlin Multiplatform knowledge after strong Android & Spring Boot foundation  
+🥋 **Fun fact:** Egyptian Karate champion — discipline in training carries over to code
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bahy-mohy-562820246/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="bahy.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
+
+**Mobile**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Architecture & Patterns**
+
+![MVVM](https://img.shields.io/badge/MVVM-FF6B35?style=flat-square)
+![MVI](https://img.shields.io/badge/MVI-FF6B35?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6C3483?style=flat-square)
+![BLoC](https://img.shields.io/badge/BLoC-02569B?style=flat-square)
+
+**Backend & Database**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Room DB](https://img.shields.io/badge/Room_DB-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Libraries & Tools**
+
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-F78C40?style=flat-square)
+![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=flat-square&logo=android&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=kotlin&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 🚀 Featured Projects
+
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| [**Crypto Tracker**](https://github.com/bavlymo1) | Kotlin · Ktor · MVI · Compose | Real-time crypto data · Clean Arch · Feature-based modularization |
+| [**YarnCraft Marketplace**](https://github.com/bavlymo1/yarncraft) | Spring Boot · React · Docker · MySQL | Full-stack · JWT Security · AOP logging · Dockerized deployment |
+| [**Swap App Zone**](https://github.com/bavlymo1/Swap-App-Zone-) | Flutter · Firebase · Clean Arch | Auth · Real-time Firestore sync · Geo-location feed |
+| [**Shopping App**](https://github.com/bavlymo1/Shopping) | Kotlin · MVVM · Retrofit · Compose | Live API · Material Design 3 · DiffUtil optimization |
+| [**Fake Store**](https://github.com/bavlymo1/Fake-Store-Sprints) | Kotlin · Clean Arch · JUnit | 6+ screens · ~80% ViewModel test coverage |
+
+---
+
+## 💼 Experience
+
+🏢 **Clutch Tech** — Android Developer Intern  
+🏦 **Banque Misr** — Android Developer Intern  
+🎓 **DEPI (Digital Egypt Pioneers Initiative)** — Flutter / Mobile Developer  
+🏫 **ITI Ismailia** — Java Development Track  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bavlymo1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bavlymo1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=bavlymo1&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560" />
+
+</div>
+
+---
+
+## 🗺️ Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bavlymo1/bavlymo1/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bavlymo1/bavlymo1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bavlymo1/bavlymo1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bavlymo1/bavlymo1/output/pacman-contribution-graph.svg" width="100%" />
 </picture>
 
-###
+---
 
-<h3 align="left">About Me</h3>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=80&section=footer" width="100%" />
 
-<br clear="both">
+*"Build things that matter. Write code that lasts."*
 
-<p align="left">I’m Bahy Mohy, a Mobile App Developer with a strong focus on Android development using Kotlin and a growing specialization in backend development with Spring Boot. I enjoy building scalable, real-world applications with clean architecture, modern tooling, and a strong emphasis on performance and maintainability. 🚀<br><br>I have hands-on experience developing Android apps using MVVM, Jetpack Compose, Coroutines/Flow, and integrating RESTful APIs and Firebase. On the backend side, I work with Spring Boot, covering core topics such as Spring MVC, Spring Security, AOP, and Hibernate, aiming to build secure and well-structured APIs that integrate seamlessly with mobile applications.<br><br>One of my highlighted projects is Crypto Tracker, a scalable Android application built with Clean Architecture and feature-based modularization. The app consumes real-time data using Ktor Client, follows modern MVI state management, and uses Jetpack Compose with Material Design 3 to deliver a smooth and reactive user experience. 📱<br><br>In addition to mobile development, I’m continuously expanding my backend knowledge to better understand system design and end-to-end application workflows. Once I gain solid production experience working with companies or clients as an Android or Backend Developer, I plan to explore Kotlin Multiplatform to bridge mobile and backend development even further. 🌱<br><br>I’m currently pursuing my Bachelor’s degree in Software Engineering at Helwan University, and I’ve completed multiple internships that strengthened my practical skills in Android, Java, and clean coding practices. 🎓 <br><br>Thanks for stopping by — happy coding! 😊</p>
-
-###
+</div>
