@@ -98,14 +98,14 @@ I specialize in building **scalable, clean-architecture mobile apps** for Androi
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bavlymo1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bavlymo1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+[![bavlymo1's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bavlymo1&theme=tokyonight)](https://github.com/bavlymo1)
 
 </div>
 
 <div align="center">
 
-<img width="60%" src="https://streak-stats.demolab.com?user=bavlymo1&theme=tokyonight&hide_border=true" />
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bavlymo1&theme=tokyonight)](https://github.com/bavlymo1)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bavlymo1&theme=tokyonight)](https://github.com/bavlymo1)
 
 </div>
 
