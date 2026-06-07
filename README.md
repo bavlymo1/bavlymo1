@@ -87,32 +87,12 @@ I specialize in building **scalable, clean-architecture mobile apps** for Androi
 
 ## 💼 Experience
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏢 Clutch Tech</h4>
-      <p>Android Developer Intern</p>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏦 Banque Misr</h4>
-      <p>Android Developer Intern</p>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎓 DEPI</h4>
-      <p>Flutter / Mobile Developer</p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏫 ITI Ismailia</h4>
-      <p>Java Development Track</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-    </td>
-  </tr>
-</table>
+🏢 **Clutch Tech** — Android Developer Intern  
+🏦 **Banque Misr** — Android Developer Intern  
+🎓 **DEPI (Digital Egypt Pioneers Initiative)** — Flutter / Mobile Developer  
+🏫 **ITI Ismailia** — Java Development Track  
+
+---
 
 ## 📊 GitHub Stats
 
