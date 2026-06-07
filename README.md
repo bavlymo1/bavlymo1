@@ -28,7 +28,7 @@ I specialize in building **scalable, clean-architecture mobile apps** for Androi
 
 🎯 **Currently:** Actively seeking Android / Flutter internship or junior role  
 🔨 **Building:** Expanding Kotlin Multiplatform knowledge after strong Android & Spring Boot foundation  
-🥋 **Fun fact:** Egyptian Karate champion — discipline in training carries over to code
+🥋 **Fun fact:** Egyptian Karate and Swimming champion — discipline in training carries over to code
 
 ---
 
