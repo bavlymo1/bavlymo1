@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header&text=Bahy%20Mohy&fontSize=42&fontColor=e94560&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header&text=Bahy%20Mohy%20Mohamed&fontSize=42&fontColor=e94560&fontAlignY=65&animation=fadeIn" width="100%" />
 
 </div>
 
